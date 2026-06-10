@@ -1,0 +1,17 @@
+nepaliromanizer/core/Translator.class
+nepaliromanizer/core/TranslatorRegistry.class
+nepaliromanizer/transliteration/WordDictionary.class
+nepaliromanizer/NepaliRomanizer$Builder.class
+nepaliromanizer/transliteration/NepaliMappings$1.class
+nepaliromanizer/cache/CachingTranslator.class
+nepaliromanizer/core/Language.class
+nepaliromanizer/transliteration/RomanToNepaliTransliterator.class
+nepaliromanizer/cache/CachingTranslator$Builder.class
+nepaliromanizer/NepaliRomanizer.class
+nepaliromanizer/core/TranslationResult.class
+nepaliromanizer/core/TranslationResult$Builder.class
+nepaliromanizer/core/AbstractTranslator.class
+nepaliromanizer/core/TranslationException.class
+nepaliromanizer/core/LanguagePair.class
+nepaliromanizer/transliteration/NepaliMappings.class
+nepaliromanizer/transliteration/NepaliToRomanTransliterator.class
